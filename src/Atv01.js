@@ -11,5 +11,6 @@ export default function Atv01() {
             <Letreiro />
             <Link to="/">Retornar a página inicial</Link>
         </>
-    )
+    );
 }
+
